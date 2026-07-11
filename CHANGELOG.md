@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1] - 2026-07-11
+
+### Changed
+- Added SkillHub frontmatter fields (slug/displayName/version/summary/license) for three-platform publishing
+- Version bump to 1.0.1 for ClawHub republish to sync Short summary
+
 ## [1.0.0] - 2026-07-11
 
 ### Added
